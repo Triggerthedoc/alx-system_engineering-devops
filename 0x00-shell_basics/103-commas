@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a1 -v | sed -E 's/(.*\/)$/\1\//' | paste -sd ',' -; echo
+ls -Ap | grep -v "/\." | paste -sd ',' -; echo
