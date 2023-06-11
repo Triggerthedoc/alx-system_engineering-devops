@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -Ap | grep -v "/\." | paste -sd ',' -; echo
+#!/bin/bash 
+ls -pA | tr '\n' ',' | sed 's/,$/\n/'
