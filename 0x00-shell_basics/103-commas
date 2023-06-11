@@ -1,2 +1,2 @@
-#!/bin/bash 
-ls -pA | tr '\n' ',' | sed 's/,$/\n/'
+#!/bin/bash
+ls -m
