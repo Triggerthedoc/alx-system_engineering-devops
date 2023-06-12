@@ -1,1 +1,1 @@
-Sript that display the confusion '(Ôo)'
+script that diplays a confused smiley '(Ôo)'
