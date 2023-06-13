@@ -37,3 +37,5 @@ Task 17: Script that display all the lines in the file /etc/passwd that do not c
 Task 18: Script that display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
 Tak 19: Script that replaces all characters A and c from input to Z and e respectively.
+
+Task 20: Script that Create a script that removes all letters c and C from input.
