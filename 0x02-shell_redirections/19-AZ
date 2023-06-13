@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Acce" | sed 's/A/Z/g; s/c/e/g'
+#!/bin/bash 
+sed 's/A/c/g; s/Z/e/g'
