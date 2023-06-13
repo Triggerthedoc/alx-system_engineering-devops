@@ -23,3 +23,5 @@ Task 10: Script hat deletes all the regular files (not the directories) with a .
 Task 11: Script that counts the number of directories and sub-directories in the current directory and show hidden directories.
 
 Task 12: Scripts that displays the 10 newest files in the current directory.
+
+Task 13: Script that takes a list of words as input and prints only words that appear exactly once.
