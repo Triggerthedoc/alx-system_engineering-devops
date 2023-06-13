@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Hello $(703265af0ce5) 
+echo"Hello $(whoami)" 
