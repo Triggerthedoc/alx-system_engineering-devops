@@ -42,4 +42,4 @@ Task 20: Script that Create a script that removes all letters c and C from input
 
 Task 21: Script that reverse its input.
 
-Task 22: Script that displays all users and their home directories, sorted by users in /etc/passwd file
+Task 22: Script that displays all users and their home directories, sorted by users.
