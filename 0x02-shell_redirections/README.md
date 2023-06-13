@@ -41,3 +41,5 @@ Tak 19: Script that replaces all characters A and c from input to Z and e respec
 Task 20: Script that Create a script that removes all letters c and C from input.
 
 Task 21: Script that reverse its input.
+
+Task 22: Script that displays all users and their home directories, sorted by users in /etc/passwd file
